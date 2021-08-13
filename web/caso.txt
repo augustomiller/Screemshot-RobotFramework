@@ -1,0 +1,10 @@
+
+Cenário                                             
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------                                          
+|                                                   | Abrir o navegador Chrome                                       | Navegador abre com sucesso ✅      |
+|CN1 - Valida Cabeçalho - Fluxo de sucesso - Chrome | Abrir a URL - https://training-wheels-protocol.herokuapp.com/  | Site Training abre com sucesso ✅  |
+|                                                   | Validar a alteração da fraseologia no título principal         | Valida Fraseologia ✅              |
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
